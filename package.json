@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "v-bar": "^3.0.0",
+    "vue": "^2.6.11",
+    "vue-detached-scrollbar": "^1.0.5",
+    "vue-scrollbar": "^1.0.4",
+    "vuebar": "0.0.20"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.15",
